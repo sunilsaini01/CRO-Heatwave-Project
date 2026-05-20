@@ -35,7 +35,7 @@ This project addresses that gap by building a **two-stage hybrid deep learning s
 
 ---
 
-## 🌶️ What is a Heatwave?
+##  What is a Heatwave?
 
 The **India Meteorological Department (IMD)** defines a heatwave when *both* conditions are met simultaneously:
 
