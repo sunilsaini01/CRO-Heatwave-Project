@@ -1,4 +1,4 @@
-# CRO Heatwave Prediction System
+# Heatwave Prediction System
 
 ### AI-Driven District-Level Heatwave Forecasting for Uttar Pradesh, India
 
