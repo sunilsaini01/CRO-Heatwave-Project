@@ -237,10 +237,14 @@ y_final[d] = y_lstm[d] + y_xgb[d]     for d in {1, 2, ..., 10}
 ```
 CRO-Heatwave-Project/
 │
+├── .gitignore                    # Ignore unnecessary files/folders
+├── README.md
+│
 ├── LSTM-baseline-model.ipynb     # Notebook 1 — EDA, feature engineering, LSTM training & evaluation
 ├── Hybrid-Model.ipynb            # Notebook 2 — XGBoost residual correction, hybrid evaluation
+├── LICENSE                       # Open-source project license
 ├── CRO-Heatwave-Prediction.ipynb # Notebook 3 — Full CRO pipeline (IMD data, VIF, Mann-Kendall)
-└── README.md
+
 ```
 
 **Kaggle output artefacts (from Notebook 1, consumed by Notebook 2):**
@@ -276,11 +280,11 @@ CRO-Heatwave-Project/
 
 ## 👤 Author
 
-**Tarun Rai**
+**Sunil Kumar**
 AI/ML Engineer · Climate & Forecasting Systems
 
-[![GitHub](https://img.shields.io/badge/GitHub-tarun--rai21-181717?style=flat&logo=github)](https://github.com/tarun-rai21)
-[![Kaggle](https://img.shields.io/badge/Kaggle-tarunraii-20BEFF?style=flat&logo=kaggle)](https://www.kaggle.com/tarunraii)
+[![GitHub](https://img.shields.io/badge/GitHub-sunilsaini01-181717?style=flat&logo=github)](https://github.com/sunilsaini01)
+[![Kaggle](https://img.shields.io/badge/Kaggle-sunil123kumar-20BEFF?style=flat&logo=kaggle)](https://www.kaggle.com/)
 
 ---
 
